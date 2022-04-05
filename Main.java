@@ -1,7 +1,3 @@
-// TILEMACHOS MARKOS BAZAKAS 3281
-// BASILEIOS DODIS 3300
-// ZISIS PROKOPIOS TALAMAGKAS 3340
-
 import java.util.ArrayList;
 //import java.util.List;
 import java.util.Scanner; 
